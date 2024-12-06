@@ -65,14 +65,14 @@ const Contact = () => {
           <div className="reachborder"></div>
           <div className="Add">
             <p className="text">
-              Barka Gaon, New pul Ara buxar road
+                Kanchanpur , 
             </p>
 
             <p className="text">
-              Arrah, Bihar-802301
+              Sangli , Tal - Miraj,
+            </p><p className="text">
+                Maharashtra
             </p>
-
-            <p className="text">Ph: +91 7870613465 / 6206282610</p>
 
             <p className="text">E-Mail: snpublicschool2020@gmail.com</p>
           </div>
